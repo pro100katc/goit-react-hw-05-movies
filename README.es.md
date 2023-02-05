@@ -24,6 +24,7 @@ para familiarizarse con las funciones opcionales y configurarlas.
 клонируй его себе на компьютер, пиши код, делай коммиты и отправляй их на
 GitHub.
 
+
 ## Подготовка к работе
 
 1. Asegúrate de que la versión LTS de Node.js está instalada en tu computador.
